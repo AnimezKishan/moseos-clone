@@ -13,12 +13,12 @@ html, body{
 
 @font-face {
     font-family: main-regular;
-    src: url(/assets/fonts/untitled-serif-regular.woff2);
+    src: url(https://museos.arteyeducacion.org/fonts/untitled-serif-regular.woff2);
 }
 
 @font-face {
     font-family: main-medium;
-    src: url(/assets/fonts/untitled-sans-medium.woff2);
+    src: url(https://museos.arteyeducacion.org/fonts/untitled-sans-medium.woff2);
 }
 
 .loader{
